@@ -9,11 +9,11 @@ router.get('/', (req, res) => {
   // be sure to include its associated Products
   include:[{
     model:Product,
-    attributes:['id','price','stock','category_id']
+    attribute:['id','price','stock','category_id']
   }]
 })
 .then(dbCategoryData=>{
-  if(dbCategoryData){
+  if(!dbCategoryData){
     res.status(404).json({ message: 'No category found with this id' });
     return;
   }
