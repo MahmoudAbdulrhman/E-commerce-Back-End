@@ -38,6 +38,6 @@ gitHub link : https://github.com/MahmoudAbdulrhman/E-commerce-Back-End
 
 [![Watch the Video]](https://youtu.be/FSkZ3fPZEQU "E-commerce-Back-End")
 
-<https://drive.google.com/file/d/1ghw2I2kNUjtciHumWZ0K7HWjQr9uKc7a/preview">
+<https://drive.google.com/file/d/1ghw2I2kNUjtciHumWZ0K7HWjQr9uKc7a/view>
 
 Thank you
